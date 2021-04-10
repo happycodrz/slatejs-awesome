@@ -11,6 +11,7 @@ https://github.com/Flaque/use-slate-lifecycle []
 https://github.com/guestbell/slate-plugins [] Collection of slate plugins
 https://github.com/hanford/remark-slate [] Remark plugin to compile Markdown as a slate 0.50+ compatible object.
 https://github.com/hanford/remark-slate [] Remark plugin to compile Markdown as a slate 0.50+ compatible object.
+https://github.com/hnrq/rich-text-editor []
 https://github.com/ianstormtaylor/slate []
 https://github.com/indreklasn/slate-react-rich-text-editor [] Let’s build a customizable rich text editor with Slate and React
 https://github.com/inokawa/remark-slate-transformer [] remark plugin to transform remark syntax tree (mdast) to Slate document tree, and vice versa. Made for WYSIWYG markdown editor.
@@ -19,6 +20,7 @@ https://github.com/Journaly/journaly []
 https://github.com/juliankrispel/slate-patterns []
 https://github.com/keystonejs/keystone [BIG-340MB]
 https://github.com/kledk/react-chief-editor [] A rich-text editor for React, built ontop of Slate.js with an hooks-based addon architecture.
+https://github.com/KohheePeace/slate-tuto []
 https://github.com/lqs469/slate-table [] Editable table for Slate.js (version > 0.5)
 https://github.com/lukesmurray/use-slate-with-extensions [] https://use-slate-with-extensions.netlify.app/
 https://github.com/meowWhat/slate-plugins [] fork by slate-plugins 0.59.0

@@ -17,14 +17,14 @@ https://github.com/inokawa/remark-slate-transformer [] remark plugin to transfor
 https://github.com/jasonphillips/slate-deep-table [] Plugin for the Slate editor, allowing for creation of tables with nested content
 https://github.com/Journaly/journaly []
 https://github.com/juliankrispel/slate-patterns []
-https://github.com/keystonejs/keystone []
+https://github.com/keystonejs/keystone [BIG-340MB]
 https://github.com/kledk/react-chief-editor [] A rich-text editor for React, built ontop of Slate.js with an hooks-based addon architecture.
 https://github.com/lqs469/slate-table [] Editable table for Slate.js (version > 0.5)
 https://github.com/lukesmurray/use-slate-with-extensions [] https://use-slate-with-extensions.netlify.app/
 https://github.com/meowWhat/slate-plugins [] fork by slate-plugins 0.59.0
 https://github.com/mouthzipper/slate-table-plugin []
 https://github.com/nareshbhatia/react-force [] Foundational components and utilities for React applications
-https://github.com/NeonLaw/codebase []
+https://github.com/NeonLaw/codebase [BIG-250MB]
 https://github.com/newageoflight/fast-discharge [] Slate-based text editor for faster discharge summaries and medical documentation
 https://github.com/newsiberian/slate-plugins [] Slate editor plugins
 https://github.com/NiaMori/slate-debug-visualizer []
@@ -34,6 +34,7 @@ https://github.com/React-Artibox/artibox [] Artibox - A complete rich text edito
 https://github.com/roast-cms/french-press-editor [] ☕ An offline-first rich text editor component.
 https://github.com/rockhamx/Syncing-editor [] A syncing editor built with Slate.
 https://github.com/rs-pro/rocket-slate [] A complete editor based on slatejs
+https://github.com/sagemathinc/cocalc [BIG-270MB] CoCalc: Collaborative Calculation in the Cloud
 https://github.com/sdorra/society [] Collaborative Editor based on Slate and Yjs
 https://github.com/snakeUni/Slate-UI [] a slate-next UI Component for react
 https://github.com/SReichelt/slate [] The Slate Interactive Theorem Prover - https://slate-prover.org/libraries/hlm/Essentials/Sets/finite

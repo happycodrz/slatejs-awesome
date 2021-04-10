@@ -1,0 +1,49 @@
+https://github.com/aboveyunhai/chakra-slatejs-example []
+https://github.com/bartstc/paper-chat-server-typescript [] Google docs clone with Slate.js
+https://github.com/chatterbugapp/chatterslate []
+https://github.com/cihad/instagram-slate-plugin [] Embed Instagram your Editor Area
+https://github.com/comerc/minsk4 [] ReactJS в режиме live-code. Скелет на CRA и кастомизация SlateJS.
+https://github.com/cudr/slate-collaborative [] slatejs collaborative plugin & microservice https://slate-collaborative.herokuapp.com/
+https://github.com/diegocouto/react-slate-elements [] A collection of elements to use with Slate.
+https://github.com/emeraldwalk/slate-examples []
+https://github.com/enzoferey/slate-instant-replace [] A Slate plugin that gives you full power on the last word your user typed.
+https://github.com/Flaque/use-slate-lifecycle []
+https://github.com/guestbell/slate-plugins [] Collection of slate plugins
+https://github.com/hanford/remark-slate [] Remark plugin to compile Markdown as a slate 0.50+ compatible object.
+https://github.com/hanford/remark-slate [] Remark plugin to compile Markdown as a slate 0.50+ compatible object.
+https://github.com/ianstormtaylor/slate []
+https://github.com/indreklasn/slate-react-rich-text-editor [] Let’s build a customizable rich text editor with Slate and React
+https://github.com/inokawa/remark-slate-transformer [] remark plugin to transform remark syntax tree (mdast) to Slate document tree, and vice versa. Made for WYSIWYG markdown editor.
+https://github.com/jasonphillips/slate-deep-table [] Plugin for the Slate editor, allowing for creation of tables with nested content
+https://github.com/Journaly/journaly []
+https://github.com/juliankrispel/slate-patterns []
+https://github.com/keystonejs/keystone []
+https://github.com/kledk/react-chief-editor [] A rich-text editor for React, built ontop of Slate.js with an hooks-based addon architecture.
+https://github.com/lqs469/slate-table [] Editable table for Slate.js (version > 0.5)
+https://github.com/lukesmurray/use-slate-with-extensions [] https://use-slate-with-extensions.netlify.app/
+https://github.com/meowWhat/slate-plugins [] fork by slate-plugins 0.59.0
+https://github.com/mouthzipper/slate-table-plugin []
+https://github.com/nareshbhatia/react-force [] Foundational components and utilities for React applications
+https://github.com/NeonLaw/codebase []
+https://github.com/newageoflight/fast-discharge [] Slate-based text editor for faster discharge summaries and medical documentation
+https://github.com/newsiberian/slate-plugins [] Slate editor plugins
+https://github.com/NiaMori/slate-debug-visualizer []
+https://github.com/paperbits/paperbits-slate [] Paperbits HTML editor based on Slate.
+https://github.com/Quadrats/quadrats [] A complete rich text editor. Currently based on Slate framework.
+https://github.com/React-Artibox/artibox [] Artibox - A complete rich text editor based on Slate framework. - react-artibox.github.io/artibox
+https://github.com/roast-cms/french-press-editor [] ☕ An offline-first rich text editor component.
+https://github.com/rockhamx/Syncing-editor [] A syncing editor built with Slate.
+https://github.com/rs-pro/rocket-slate [] A complete editor based on slatejs
+https://github.com/sdorra/society [] Collaborative Editor based on Slate and Yjs
+https://github.com/snakeUni/Slate-UI [] a slate-next UI Component for react
+https://github.com/SReichelt/slate [] The Slate Interactive Theorem Prover - https://slate-prover.org/libraries/hlm/Essentials/Sets/finite
+https://github.com/Thinkei/hero-editor [] A WYSIWYG built on top of Slate
+https://github.com/udecode/slate-plugins [] A plugin framework for building rich text editors with slate.
+https://github.com/usunil0/slate-paged [] A paged editor rather than a continuous block. built using slate js.
+https://github.com/Vericus/slate-kit [] A collection of slate's plugins and utils - vericus.github.io/slate-kit/latest/
+https://github.com/vocoWone/super-editor []
+https://github.com/webkom/lego-editor [] A React rich text editor written in TS with Slate.js for lego-webapp
+https://github.com/whatever-company/slate-tables [] Slate.js plugin for table edition
+https://github.com/willahh/notizen []
+https://github.com/Yeroshenko/note []
+https://github.com/York-IE-Labs/slate-lists [] Lists (ol, ul) plugin for the latest version of slate.
